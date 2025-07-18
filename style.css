@@ -24,6 +24,9 @@ body {
   font-size: 40px;
   text-align: end;
   padding: 4px;
+  overflow-x: scroll;
+  scrollbar-color: #888 #b0cdb0;
+  scrollbar-width: thin;
 }
 
 .buttons {
